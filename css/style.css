@@ -1,0 +1,27 @@
+.navbar-default {
+  background-color: #808080; /* Replace with your desired shade of grey */
+  color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  font-weight : bold;
+}
+
+p{
+    color: black;
+}
+
+
+
+.section{
+  background-color: grey;
+  margin: 0;
+  padding: 10px;
+}
+
+.navbar-brand {
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+  font-weight : bold;
+}
